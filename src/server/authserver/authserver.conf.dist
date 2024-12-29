@@ -150,7 +150,7 @@ ReporterAdress = "localhost:3000"
 #                                                                           Unix/Linux)
 #        Default:     "127.0.0.1;3306;wodcore;wodcore;auth"
 
-LoginDatabaseInfo = "127.0.0.1;3306;wodcore;wodcore;auth"
+LoginDatabaseInfo = "0.0.0.0;3306;root;feur;auth"
 
 #
 #    LoginDatabase.WorkerThreads

@@ -1,6 +1,7 @@
 #Intelij
 .idea
 
+maps
 #TrinityCore
 build*/
 .directory
